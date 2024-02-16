@@ -15,6 +15,7 @@ This repository contains the SaraKIT library, a SWIG-generated interface that al
 ## Examples
 - `SaraKIT-AS5048A-AS5600-encoder-Raspberry-Pi`: a simple example displaying data from an AS5048A or AS5600 encoder
 - `SaraKIT-LSM6DS3TR-Accelerometer-Gyroscope-Temperature-Raspberry-Pi`: a simple example displaying Temperature, data from Accelerometer and Gyroscope
+- `SaraKIT-LIS3DH-Accelerometer-Raspberry-Pi`: a simple example displaying data from Accelerometer (on Mainboard)
 - `SaraKIT-BLDC-Gimbal-Motor-FOC-Raspberry-Pi`: simple demonstration of turning a BLDC motor with or without an encoder
 - `SaraKIT-Audio` - Audio Examples: AudioVolume.py, ShowPowerMeter.py, SoundLocator.py (https://sarakit.saraai.com/getting-started/audio)
 
