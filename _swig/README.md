@@ -29,12 +29,12 @@ sudo apt-get install python3-dev
 
 1. Clone the repository:
    ```bash
-   git clone [repository URL]
+   git clone https://github.com/SaraEye/SaraKIT-Python-Examples 
    ```
 
 2. Navigate to the cloned directory:
    ```bash
-   cd [repository name]
+   cd SaraKIT-Python-Examples
    ```
 
 ## Usage

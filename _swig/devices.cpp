@@ -10,7 +10,6 @@
 #include <linux/spi/spidev.h>
 
 #include "devices.hpp"
-#include <wiringPi.h>
 
 //BLDC GIMBAL MOTORS
 int motorDriverPin = 17;

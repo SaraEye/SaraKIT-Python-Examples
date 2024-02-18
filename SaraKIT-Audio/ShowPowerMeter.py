@@ -1,6 +1,4 @@
-# sudo apt install python3-alsaaudio
-
-import alsaaudio
+import alsaaudio # sudo apt install python3-alsaaudio
 import time
 import math
 import sys
